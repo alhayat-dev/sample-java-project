@@ -28,7 +28,7 @@ the printed string in the code, and running "hotswap" in another
 terminal. The printed message in the running program should change to
 the new string.
 
-## Bundles
+# Bundles
 
 Take note of the sample `pom.xml` file. This is not actually for Maven
 builds -- this is an Ant project afterall -- but for publishing builds
@@ -52,3 +52,4 @@ build program with no special arguments. There should be no need to
 edit or install anything into the project space for the initial build.
 
 # Test
+# Line to test the push command...
